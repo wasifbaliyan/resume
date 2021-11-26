@@ -1,2 +1,3 @@
-# resume
-My resume
+# Resume
+
+Wasif Baliyan's updated resume
